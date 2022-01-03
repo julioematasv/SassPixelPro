@@ -1,5 +1,5 @@
 # sassPixelPro
-![Imagen Logotipo Sass](D:/htdocs/Repositorios/SassPixelPro/img-sass.png)
+![Imagen Logotipo Sass](/img-sass.png)
 # Repositorio para el curso de SASS de PixelPro #
 
 ----------
