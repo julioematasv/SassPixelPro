@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAGA,IAAK;EACH,WAAW,EAJJ,KAAK;EAKZ,KAAK,EAJE,OAAO",
+"mappings": "AAWA,IAAK;EACH,WAAW,EAJJ,KAAK;EAKZ,KAAK,EAJE,OAAO",
 "sources": ["estilos.scss"],
 "names": [],
 "file": "estilos.css"

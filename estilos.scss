@@ -1,3 +1,11 @@
+@import 'partials/reset';
+@import 'partials/base';
+
+@import 'modules/forms';
+@import 'modules/menus';
+
+@import 'vendor/slider';
+
 $fuente: arial;
 $color1: #FF2E2F;
 
