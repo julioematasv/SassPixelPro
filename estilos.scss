@@ -1,16 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&family=Oswald:wght@400;700&family=Roboto:wght@400;700&display=swap');
 @import 'partials/reset';
 @import 'partials/base';
-
 @import 'modules/forms';
 @import 'modules/menus';
-
 @import 'vendor/slider';
 
-$fuente: arial;
-$color1: black;
-$colorTexto: #FF2E2F;
+// Colores del proyecto
+$azulOscuro: #152033;
+$azulClaro: #286990;
+$negroPixelPro: #222222;
+$grisClaro: #eeeeee;
 
+$colorPrincipal: $azulClaro;
+$colorFondo: $grisClaro;
+$colortitulos: $azulOscuro;
+$colorParrafo: $azulOscuro;
+
+// Tipografías del proyecto
+$fTitulos: 'Oswald', sans-serif;
+$fSubTitulos: 'Oswald', sans-serif;
+$fParrafos: 'Lato', sans-serif;
+
+// Estilos de página
+html {
+  font-size: 62.50%;
+}
 body {
-  font-family: $fuente;
-  color: $color1;
+  font-size: 1.6rem;
+  font-family: $fParrafos;
+  background-color: $grisClaro;
 }

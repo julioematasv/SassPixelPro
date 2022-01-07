@@ -1,5 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,700&family=Oswald:wght@400;700&family=Roboto:wght@400;700&display=swap");
+html {
+  font-size: 62.50%; }
+
 body {
-  font-family: arial;
-  color: black; }
+  font-size: 1.6rem;
+  font-family: "Lato", sans-serif;
+  background-color: #eeeeee; }
 
 /*# sourceMappingURL=estilos.css.map */
